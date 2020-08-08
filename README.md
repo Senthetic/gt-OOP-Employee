@@ -19,8 +19,8 @@
  This project is licensed under undefined
  ## Contribution
  ### n/a
- ## Tests 
- ### 
+ ## Tests
+ ### passed all tests required in Tests folder
  ## Questions
  ### [Senthetic for github](https://github.com/Senthetic)
  ### atc3598@icloud.com for email
